@@ -1,2 +1,3 @@
 # Python
-This is my first Repository
+This is my first Git Repository.
+author - Muhammad Zeeshan Afzal
